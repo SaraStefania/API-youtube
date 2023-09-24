@@ -1,0 +1,17 @@
+#formQuestion {
+    display: none; 
+    background-color: rgba(255, 255, 255, 0.73);
+    padding: 0 50vh;
+}
+h1{
+    font-weight: 800;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.container-input{
+    padding: 10px 0;
+}
+
